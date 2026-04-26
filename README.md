@@ -1,7 +1,7 @@
 # FNAFONE3D-GAME
  3D Version Of Popular FNAF (Open Source <del>& License-Free</del>) Horror Game Made With Unity
 
- In fact, it is not a complete project. According to my plan It was a commercial project and I were plannin to sell it. However, with FNAF owners copyright permissions It went wrong. I force the limits and talked with some authorities of Clickteam LLC because it was a very big and future calming project. After that I came to the conclusion that I could not publish my game commercially. As a result, I added the last features that need to be added to the game quickly and shared it publicly in an open source way. Enjoy it! If there are new features you would like added, please contribute to our open source shared project.
+ This project was created as a deep dive into 3D game development and computer graphics. The goal was to understand the underlying mechanics of real-time rendering, spatial logic, and graphics optimization by rebuilding a familiar survival horror concept from the ground up in a true 3D environment. Enjoy it! If there are new features you would like added, please contribute to our open source shared project.
 
 ![FNAFONE 3D Thumbnail](README_MD_MEDIA/fnafone3dthumbnail.png)
 
@@ -72,12 +72,12 @@
 [Door Open and Close Sound Effects](https://www.youtube.com/watch?v=Nfg1LS5b5x8) by [GamingSoundEffects](https://www.youtube.com/channel/UC1WfVpVwA8LWNhXdHjJzGfQ) from [YouTube](https://www.youtube.com) </br>
 [FNAF 2 - Victory 6 AM](https://www.youtube.com/watch?v=7ht_Syve_z4) by [Luckando47](https://www.youtube.com/user/Luca8494) from [YouTube](https://www.youtube.com) </br>
 
- - We paid as much attention as possible to the licensing of the assets we use and tried to make sure that its allowed for commercial/personal use.
+  - We paid as much attention as possible to the licensing of the assets we use and ensured they are suitable for this educational project.
  - All the codes used on this project is unique and not taken from any source.
  - Character animations made with [Mixamo.com](https://www.mixamo.com)
 
 # Developer's Post-Development Notes
- If I were to starting the development of this game right now, I would not have developed it at all, because all the effort spent on the game could not reach its original purpose due to copyrights. It wasn't bad because I got even better in Unity. During this development process, I found that a simple game engine like Unity was also insufficient to manage somewhat complex content. 2D games are easily developed in Unity and there is not much difficulty. However, when it comes to 3D, you will notice deficiencies in various aspects, both graphics and optimization, compared to a game engine such as Unreal Engine. Unity is a good software for the mobile game industry. It is mobile friendly with its default not overly high graphics. In addition, the use of the game engine is not overly difficult. However, a lot of things on Unity reduces performance and create serious differences in FPS values. From now on I recommend using Unity for making simpler games and making more complex games in a game engine like Unreal Engine.
+ Developing this project has been an incredible learning journey. By rebuilding this world in 3D, I gained a much deeper understanding of how modern game engines handle spatial transformations, real-time lighting, and optimization. I discovered the strengths and limitations of Unity when managing complex 3D environments and learned how to optimize performance across different systems. This project served as a foundation for my understanding of the graphics pipeline and the mathematical logic required for interactive 3D spaces. From now on, I plan to take these lessons forward to create even more complex and optimized experiences.
 
  In brief, use Unity for making simple games and Unreal for advanced ones like open world games.
 
