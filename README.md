@@ -1,7 +1,7 @@
 # FNAFONE3D-GAME
  3D Version Of Popular FNAF (Open Source <del>& License-Free</del>) Horror Game Made With Unity
 
- In fact, it is not a complete project. According to my plan It was a commercial project and I were plannin to sell it. However, with FNAF owners copyright permissions It went wrong. I force the limits and talked with some authorities of Clickteam LLC because it was a very big and future calming project. After that I came to the conclusion that I could not publish my game commercially. As a result, I added the last features that need to be added to the game quickly and shared it publicly in an open source way. Enjoy it! If there are new features you would like added, please contribute to our open source shared project. Help/support is done through our Discord server.
+ In fact, it is not a complete project. According to my plan It was a commercial project and I were plannin to sell it. However, with FNAF owners copyright permissions It went wrong. I force the limits and talked with some authorities of Clickteam LLC because it was a very big and future calming project. After that I came to the conclusion that I could not publish my game commercially. As a result, I added the last features that need to be added to the game quickly and shared it publicly in an open source way. Enjoy it! If there are new features you would like added, please contribute to our open source shared project.
 
 ![FNAFONE 3D Thumbnail](README_MD_MEDIA/fnafone3dthumbnail.png)
 
@@ -89,8 +89,5 @@ Since the project got it's popularity higher and more people started to get inte
 
 A copy of the license included on  [license.txt](license.txt) file
 
-# Are You Planning to Join Us?
- Who wouldn't want to be an FNAF developer? So socialize and get support on our Discord channel and bring a new level to FNAF games with the ready-made codes and resources we have shared!
- [Join Our Discord Server by Clicking Here!](https://discord.gg/uJb5eMRYUY)
 
  ![CC BY shubham 3.0 Logo](README_MD_MEDIA/ccbylogo.png)
