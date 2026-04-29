@@ -84,9 +84,6 @@
 # If The Project Had Continued
  If the project had continued, the stage curtains would have had a clouch physics instead of a static mesh, which would have made them look more realistic. There would be levels of difficulty and as the number of nights progressed increases the number of animatronics active would change, the length of the night would get longer so the player had more time to find the mysteries hidden inside the map. When the game was first started, there would be a tutorial that taughts the controls. Some bugs would have been fixed and the animatronics coming to the security gate would have made wait instead of animating walking towards the gate.
 
-# Licensing Update After 2023-06-23
-Since the project got it's popularity higher and more people started to get interested I decided to restrict licensing rights just a little bit. I will be using Creative Commons BY. Only thing it requires is crediting the developer which is being me, named under "shubham". Still taking care of making the project and development as free as possible so no need to worry about legal state. Thanks for being interested to all respectful developers who taking care of licensing.
-
 A copy of the license included on  [license.txt](license.txt) file
 
 
